@@ -1,0 +1,15 @@
+{
+  "name": "my-netlify-gemini-chat",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No build step\"",
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
